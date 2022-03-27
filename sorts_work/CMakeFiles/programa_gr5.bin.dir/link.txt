@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/programa_gr5.bin.dir/src/files_ops1.c.o CMakeFiles/programa_gr5.bin.dir/src/funciones_gr5.c.o CMakeFiles/programa_gr5.bin.dir/src/main.c.o  -o bin/programa_gr5.bin 

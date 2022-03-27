@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/umana/Documentos/alse/Tarea3/src/main.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+time.h
+-
+lib_gr5.h
+/home/umana/Documentos/alse/Tarea3/src/lib_gr5.h
+lib1.h
+/home/umana/Documentos/alse/Tarea3/src/lib1.h
+
+include/lib1.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+
+include/lib_gr5.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+

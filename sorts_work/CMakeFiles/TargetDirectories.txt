@@ -1,0 +1,3 @@
+/home/umana/Documentos/alse/Tarea3/CMakeFiles/rebuild_cache.dir
+/home/umana/Documentos/alse/Tarea3/CMakeFiles/edit_cache.dir
+/home/umana/Documentos/alse/Tarea3/CMakeFiles/programa_gr5.bin.dir
